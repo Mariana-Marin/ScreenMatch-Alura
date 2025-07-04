@@ -5,28 +5,6 @@ Este es un proyecto desarrollado en Java durante el curso de **Alura Latam**, do
 
 ---
 
-## 🗂️ Estructura del Proyecto
-
-- mariana-marin-screenmatch-alura/
-  - README.md
-  - ScreenMatch Alura/
-    - ScreenMatch Alura.iml
-    - ScreenMatch Alura/
-      - screenmatch.iml
-      - src/
-        - Principal.java
-        - Calculos/
-          - CalculadoraDeTiempo.java
-          - Clasificacion.java
-          - FiltroRecomendacion.java
-        - Modelos/
-          - Episodio.java
-          - Pelicula.java
-          - Serie.java
-          - Titulo.java
-
----
-
 ## 🚀 ¿Qué hace este proyecto?
 
 ✅ Gestiona y evalúa películas y series  
@@ -98,6 +76,31 @@ Este proyecto es parte del contenido formativo de **Alura Latam** y representa u
 
 Este proyecto es de uso libre para fines educativos.  
 ¡Comparte, aprende y mejora sobre él! 🚀
+
+---
+
+## 🗂️ Estructura del Proyecto
+
+```bash
+
+mariana-marin-screenmatch-alura/
+├── README.md
+└── ScreenMatch Alura/
+    ├── ScreenMatch Alura.iml
+    └── ScreenMatch Alura/
+        ├── screenmatch.iml
+        └── src/
+            ├── Principal.java
+            ├── Calculos/
+            │   ├── CalculadoraDeTiempo.java
+            │   ├── Clasificacion.java
+            │   └── FiltroRecomendacion.java
+            └── Modelos/
+                ├── Episodio.java
+                ├── Pelicula.java
+                ├── Serie.java
+                └── Titulo.java
+
 
 
 
